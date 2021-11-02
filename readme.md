@@ -1,4 +1,4 @@
-#WARNING THIS IS A TERRIBLE DIVIDER
+# WARNING THIS IS A TERRIBLE DIVIDER
 
 This divider is based on [the following link](https://projectf.io/posts/division-in-verilog/). This project is just to give it a personal take on the algorithm shown there.
 
